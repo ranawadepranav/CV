@@ -34,5 +34,5 @@ Grade: 8.15/10
 Skills
 Courses/Certification: Six Sigma Green Belt, Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Basics of Accounts, Basics of Finance
 Software/Languages: Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, SAP, Matlab, MS Office Suite, Advanced Excel, Python, HTML
-Core Competencies: TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management
+Core Competencies: TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
 Languages: English, German
