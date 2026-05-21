@@ -18,9 +18,11 @@ Graduate Engineer Trainee (Production Management)	Jan 2023 – Dec 2023
 
 Hyster-Yale Material Handling	Pune, India
 Intern (Research and Development)	May 2022 – Jun 2022
+•	Applied analytical and methodical CAD modelling skills and analysed duty cycles, peak power and torque requirements, and energy and power density calculations, delivering a technically robust e-powertrain solution as a viable alternative to the 6.2L diesel powertrain for an 8-10 Ton forklift, achieving seamless chassis integration with less than 10% structural modification.
 
 Seimitsu Patterns and Dies Private Limited	Pune, India
 Intern (Production Planning and Control)	Dec 2021 – Jan 2022
+•	Demonstrated meticulous planning and analytical demand forecasting skills by maintaining optimal stock levels and analysing production trends to develop a master production schedule, achieving a 7% inventory reduction.
 
 Education
 MSc Strategic Operations and Supply Chain Management	Sep 2025 – Expected Sep 2026
@@ -35,4 +37,4 @@ Skills
 Courses/Certification: Six Sigma Green Belt, Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Basics of Accounts, Basics of Finance
 Software/Languages: Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, SAP, Matlab, MS Office Suite, Advanced Excel, Python, HTML
 Core Competencies: TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
-Languages: English, German
+Language: English, German
