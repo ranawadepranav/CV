@@ -10,7 +10,6 @@ Production Manager	Jul 2024 – Sep 2025
 •	Led a cross-functional team across operations, planning, safety and engineering, to deliver 8 new product introductions, achieve 100% on-time delivery and plan a $3M annual operational budget.
 •	Reduced operational costs by 9% and improved workforce flexibility by 5% through continuous improvement and lean manufacturing.
 
-Garrett Motion	Pune, India
 Graduate Engineer Trainee	Jan 2023 – Jun 2024
 •	Developed adaptability and stakeholder communication skills by rotating through Production Management and Customer Account Management departments, supporting customer-focused and operational decision-making.
 •	Tracked end-to-end client activity using Salesforce and Power BI, and developed demand forecasting models that helped reduce inventory holding by 7%.
@@ -27,11 +26,11 @@ Production Planning and Control Intern	Dec 2021 – Jan 2022
 •	Maintained optimal stock levels and analysed production trends to develop a master production schedule, achieving a 7% reduction in inventory.
 
 Education
-MSc Strategic Operations and Supply Chain Management	Sep 2025 – Expected Sep 2026
 University of Southampton	Southampton, United Kingdom
+MSc Strategic Operations and Supply Chain Management	Sep 2025 – Expected Sep 2026
 
-B. Tech. Mechanical Engineering (Honours Automobile Engineering)	Aug 2019 – May 2023
 College of Engineering Pune	Pune, India
+B. Tech. Mechanical Engineering (Honours Automobile Engineering)	Aug 2019 – May 2023
 
 Skills
 Certification: Six Sigma Green Belt
