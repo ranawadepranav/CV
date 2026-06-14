@@ -2,38 +2,40 @@ Pranav Ranawade
 pranavranawadeuk@gmail.com | www.linkedin.com/in/pranav-ranawade | 07352695624 | Southampton, UK
 
 Summary
-Pursuing an MSc in Strategic Operations and Supply Chain Management with a Mechanical Engineering foundation and 3 years of experience in manufacturing across production management, lean manufacturing, continuous improvement and supply chain optimisation. Proven success in cross-functional leadership, cost reduction, inventory management and demand forecasting. Seeking operations and supply chain management opportunities.
+Pursuing an MSc in Strategic Operations and Supply Chain Management with a Mechanical Engineering foundation and 3 years of experience across production planning, research and development, continuous improvement, supply chain optimisation and production management. Proven success in cross-functional leadership, lean manufacturing, inventory management and program management. Seeking opportunities in operations and supply chain management.
 
 Experience
 Garrett Motion	Pune, India
 Production Manager	Jul 2024 – Sep 2025
-•	Spearheaded end-to-end production operations across planning, quality, and HSE compliance by leading cross-functional team, applying lean manufacturing and stakeholder communication skills to deliver 8 new product introductions, achieve 100% on-time delivery, reduce operational costs by 9%, improve workforce flexibility by 5%, and budget planning a $3M annual operational plan.
+•	Led a cross-functional team across operations, planning, safety and engineering, to deliver 8 new product introductions, achieve 100% on-time delivery and plan a $3M annual operational budget.
+•	Reduced operational costs by 9% and improved workforce flexibility by 5% through continuous improvement and lean manufacturing.
 
 Garrett Motion	Pune, India
 Graduate Engineer Trainee	Jan 2023 – Jun 2024
-•	Developed adaptability and stakeholder collaboration skills by rotating through Production Management and Customer Account Management departments, supporting operational and customer-focused decision-making.
-•	Leveraged analytical thinking, strategic thinking, and presentation skills to track 100% client activity via Salesforce and Power BI, develop demand forecasting models dropping inventory management by 7%, deliver insights based on market research shaping 20% of the organisation's long-term strategic plan, and contribute 10% of the business strategy for a new ZEV product launch.
-•	Delivered measurable operational excellence by applying process optimisation, creative thinking, and continuous improvement skills to boost capacity planning by 11%, increase OEE by 10%, deliver $18K in labour productivity savings, reduce scrap costs by 3% through six sigma, and enhance process compliance by 4% via digitisation of resource allocation and audit tools.
+•	Developed adaptability and stakeholder communication skills by rotating through Production Management and Customer Account Management departments, supporting customer-focused and operational decision-making.
+•	Tracked end-to-end client activity using Salesforce and Power BI, and developed demand forecasting models that helped reduce inventory holding by 7%.
+•	Conducted market research that shaped 20% of the organisation's long-term strategic plan and contributed towards the development of the business strategy for a new ZEV product launch.
+•	Improved capacity planning by 11%, increased OEE by 10% and undertook cost reduction initiates that generated $18K in productivity savings.
+•	Applied Six Sigma methodology to cut scrap costs by 3% and digitised resource allocation and audit tools, to improve process compliance.
 
 Hyster-Yale Material Handling	Pune, India
 Research and Development Intern	May 2022 – Jun 2022
-•	Applied analytical skills to analyse duty cycles, peak power and torque requirements, and energy and power density calculations, delivering a technically robust e-powertrain solution as a viable alternative to the 6.2L diesel powertrain for an 8-10 Ton forklift, seamlessly integrating it within existing chassis using CAD modelling skills.
+•	Analysed duty cycles, power/torque and energy/power density requirements to develop an e-powertrain alternative to 6.2L diesel engine for a 10T forklift and designed its CAD model to seamlessly integrate it within existing chassis.
 
 Seimitsu Patterns and Dies Private Limited	Pune, India
 Production Planning and Control Intern	Dec 2021 – Jan 2022
-•	Demonstrated meticulous planning and analytical demand forecasting skills by maintaining optimal stock levels and analysing production trends to develop a master production schedule, achieving a 7% inventory reduction.
+•	Maintained optimal stock levels and analysed production trends to develop a master production schedule, achieving a 7% reduction in inventory.
 
 Education
 MSc Strategic Operations and Supply Chain Management	Sep 2025 – Expected Sep 2026
 University of Southampton	Southampton, United Kingdom
-Grade: Expected 1st Class Honours
 
 B. Tech. Mechanical Engineering (Honours Automobile Engineering)	Aug 2019 – May 2023
 College of Engineering Pune	Pune, India
-Grade: 8.15/10
 
 Skills
-Courses/Certification: Six Sigma Green Belt, Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Basics of Accounts, Basics of Finance
-Software/Languages: Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, SAP, Matlab, MS Office Suite, Advanced Excel, Python, HTML
-Core Competencies: TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
+Certification: Six Sigma Green Belt
+Coursework: Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Accounts, Finance
+Tools: SAP, Power BI, Advanced Excel, MS Office Suite, Salesforce, Python, Matlab, Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, HTML
+Competencies: Lean Manufacturing, Demand Forecasting, Inventory Management, Supply Chain Optimisation, TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
 Language: English, German
