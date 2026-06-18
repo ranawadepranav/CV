@@ -2,20 +2,21 @@ Pranav Ranawade
 pranavranawadeuk@gmail.com | www.linkedin.com/in/pranav-ranawade | 07352695624 | Southampton, UK
 
 Summary
-Pursuing an MSc in Strategic Operations and Supply Chain Management with a Mechanical Engineering foundation and 3 years of experience across production planning, research and development, continuous improvement, supply chain optimisation and production management. Proven success in cross-functional leadership, lean manufacturing, inventory management and program management. Seeking opportunities in operations and supply chain management.
+MSc Strategic Operations and Supply Chain Management student with a strong foundation in Mechanical Engineering. Near 3 years of experience spanning production planning, research and development, production management and customer account management. Proven success in cross-functional leadership, lean manufacturing, continuous improvement and program management. Seeking opportunities in operations and supply chain management.
 
 Experience
 Garrett Motion	Pune, India
 Production Manager	Jul 2024 – Sep 2025
-•	Led a cross-functional team across operations, planning, safety and engineering, to deliver 8 new product introductions, achieve 100% on-time delivery and plan a $3M annual operational budget.
-•	Reduced operational costs by 9% and improved workforce flexibility by 5% through continuous improvement and lean manufacturing.
+•	Led cross-functional teams across operations, planning, quality, and safety, achieving 100% on-time delivery.
+•	Delivered 8 new product introductions through lean manufacturing practices and effective stakeholder collaboration.
+•	Reduced operational costs by 9% and improved workforce flexibility by 5% through continuous improvement.
 
 Graduate Engineer Trainee	Jan 2023 – Jun 2024
 •	Developed adaptability and stakeholder communication skills by rotating through Production Management and Customer Account Management departments, supporting customer-focused and operational decision-making.
 •	Tracked end-to-end client activity using Salesforce and Power BI, and developed demand forecasting models that helped reduce inventory holding by 7%.
 •	Conducted market research that shaped 20% of the organisation's long-term strategic plan and contributed towards the development of the business strategy for a new ZEV product launch.
 •	Improved capacity planning by 11%, increased OEE by 10% and undertook cost reduction initiates that generated $18K in productivity savings.
-•	Applied Six Sigma methodology to cut scrap costs by 3% and digitised resource allocation and audit tools, to improve process compliance.
+•	Applied Six Sigma methodology to reduce scrap costs by 3% and digitised resource allocation and audit tools, to improve process compliance.
 
 Hyster-Yale Material Handling	Pune, India
 Research and Development Intern	May 2022 – Jun 2022
@@ -36,5 +37,5 @@ Skills
 Certification: Six Sigma Green Belt
 Coursework: Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Accounts, Finance
 Tools: SAP, Power BI, Advanced Excel, MS Office Suite, Salesforce, Python, Matlab, Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, HTML
-Competencies: Lean Manufacturing, Demand Forecasting, Inventory Management, Supply Chain Optimisation, TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
+Competencies: Demand Forecasting, Inventory Management, Supply Chain Optimisation, TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
 Language: English, German
