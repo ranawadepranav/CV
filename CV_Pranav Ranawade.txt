@@ -13,7 +13,7 @@ Production Manager	Jul 2024 – Sep 2025
 
 Graduate Engineer Trainee	Jan 2023 – Jun 2024
 •	Developed adaptability and stakeholder communication skills by rotating through Production Management and Customer Account Management departments, supporting customer-focused and operational decision-making.
-•	Tracked end-to-end client activity using Salesforce and Power BI, and developed demand forecasting models that helped reduce inventory holding by 7%.
+•	Tracked end-to-end client activity using Salesforce and Power BI and developed demand forecasting models that helped reduce inventory holding by 7%.
 •	Conducted market research that shaped 20% of the organisation's long-term strategic plan and contributed towards the development of the business strategy for a new ZEV product launch.
 •	Improved capacity planning by 11%, increased OEE by 10% and undertook cost reduction initiates that generated $18K in productivity savings.
 •	Applied Six Sigma methodology to reduce scrap costs by 3% and digitised resource allocation and audit tools, to improve process compliance.
@@ -37,5 +37,5 @@ Skills
 Certification: Six Sigma Green Belt
 Coursework: Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Accounts, Finance
 Tools: SAP, Power BI, Advanced Excel, MS Office Suite, Salesforce, Python, Matlab, Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, HTML
-Competencies: Demand Forecasting, Inventory Management, Supply Chain Optimisation, TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management
+Competencies: Demand Forecasting, Inventory Management, Supply Chain Optimisation, TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management, Capacity Planning
 Language: English, German
