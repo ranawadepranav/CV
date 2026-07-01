@@ -1,22 +1,21 @@
 Pranav Ranawade
-pranavranawadeuk@gmail.com | www.linkedin.com/in/pranav-ranawade | 07352695624 | Southampton, UK
+pranavranawadeuk@gmail.com | LinkedIn | (+44) 7352695624 | Southampton, UK (open to relocate)
 
 Summary
-MSc Strategic Operations and Supply Chain Management student with a strong foundation in Mechanical Engineering. Near 3 years of experience spanning production planning, research and development, production management and customer account management. Proven success in cross-functional leadership, lean manufacturing, continuous improvement and program management. Seeking opportunities in operations and supply chain management.
+Results-driven operations and supply chain professional with near 3 years of experience spanning production, planning, research and development, production management and customer account management, delivering measurable impact across production efficiency, cost reduction, and workforce development. Currently advancing expertise through an MSc in Strategic Operations and Supply Chain Management, combining hands-on manufacturing experience with analytical and commercial skills to drive excellence.
 
 Experience
 Garrett Motion	Pune, India
 Production Manager	Jul 2024 – Sep 2025
-•	Led cross-functional teams across operations, planning, quality, and safety, achieving 100% on-time delivery.
-•	Delivered 8 new product introductions through lean manufacturing practices and effective stakeholder collaboration.
-•	Reduced operational costs by 9% and improved workforce flexibility by 5% through continuous improvement.
+•	Led end-to-end production operations achieving 100% on-time delivery throughout and delivered 8 new product introductions through lean manufacturing practices and effective stakeholder collaboration.
+•	Designed multi-skilling onboarding programmes that improved workforce flexibility by 5% and coordinated the Annual Operating Plan to deliver accurate forecasts aligned to a $3M operational budget.
 
 Graduate Engineer Trainee	Jan 2023 – Jun 2024
 •	Developed adaptability and stakeholder communication skills by rotating through Production Management and Customer Account Management departments, supporting customer-focused and operational decision-making.
-•	Tracked end-to-end client activity using Salesforce and Power BI and developed demand forecasting models that helped reduce inventory holding by 7%.
-•	Conducted market research that shaped 20% of the organisation's long-term strategic plan and contributed towards the development of the business strategy for a new ZEV product launch.
-•	Improved capacity planning by 11%, increased OEE by 10% and undertook cost reduction initiates that generated $18K in productivity savings.
-•	Applied Six Sigma methodology to reduce scrap costs by 3% and digitised resource allocation and audit tools, to improve process compliance.
+•	Spearheaded Garrett Pune's inaugural ESG audit achieving a 60+ compliance score and extended the framework across multiple customer accounts, while tracking end-to-end client activity using Salesforce and Power BI.
+•	Conducted automotive market research that influenced 20% of the organisation's Strategic Plan and collaborated with the SCM team to build demand forecasting models that reduced inventory costs by 7%.
+•	Drove shop floor performance through a performance management system that elevated OEE by 10%, led cross-functional waste elimination projects delivering $18K in cost savings and reduced scrap costs by 3%.
+•	Spearheaded cycle time reduction initiatives that boosted production line capacity by 11% and supported development towards Industry 4.0 by digitising resource allocations and audits tools to improve process compliance.
 
 Hyster-Yale Material Handling	Pune, India
 Research and Development Intern	May 2022 – Jun 2022
@@ -24,7 +23,7 @@ Research and Development Intern	May 2022 – Jun 2022
 
 Seimitsu Patterns and Dies Private Limited	Pune, India
 Production Planning and Control Intern	Dec 2021 – Jan 2022
-•	Maintained optimal stock levels and analysed production trends to develop a master production schedule, achieving a 7% reduction in inventory.
+•	Improved planning accuracy by analysing production trends and streamlining production workflows, resulting in increased on-time deliveries by 8%.
 
 Education
 University of Southampton	Southampton, United Kingdom
@@ -34,8 +33,7 @@ College of Engineering Pune	Pune, India
 B. Tech. Mechanical Engineering (Honours Automobile Engineering)	Aug 2019 – May 2023
 
 Skills
-Certification: Six Sigma Green Belt
-Coursework: Web Development, Energy Management and Conservation, Microeconomics, Macroeconomics, Accounts, Finance
+Certification: Six Sigma Green Belt, Accounts, Finance, Microeconomics, Macroeconomics, Energy Management and Conservation, Web Development
 Tools: SAP, Power BI, Advanced Excel, MS Office Suite, Salesforce, Python, Matlab, Ansys Workbench, AutoCAD, Siemens NX, Fusion 360, HTML
 Competencies: Demand Forecasting, Inventory Management, Supply Chain Optimisation, TPM, Quality Control, Data Analytics, Resource Optimisation, Risk Management, Change Management, Project Management, Capacity Planning
 Language: English, German
